@@ -13,3 +13,5 @@ International (CC BY-NC 4.0) license. For more details, see the
 <img src="License.png" alt="License" />
 <figcaption aria-hidden="true">License</figcaption>
 </figure>
+
+## **Structure of the repository**
