@@ -1,0 +1,235 @@
+﻿Core,Broad.Method,Artifact ID,Frag.Cat,Complete,Length,Width,Prox.Thick,Mid.Thick,Dist.Thick,Platform.Morph,Platform.x,Platform.y,Platform.z,Platform.Profile,Platform.Preparation,Cortex,Cortex.Loc,No.Scars,Trans.Section,Termination,Flake.Type,Weight,EPA,IPA
+Lev-12,Levallois,Lev-12-06,C,Yes,64.9,63.4,12.7,12,5.5,Rhombus,25.6,10,,CX,MF,5,5,4,Circular,Feather,Flake,41.71,85,100
+Lev-12,Levallois,Lev-12-02,C,Yes,44.4,50,9.8,10.2,7.4,Triangle,36.8,8.8,,CX,MF,5,5,3,Trapezoidal,Feather,Flake,20.95,89,93
+Lev-12,Levallois,Lev-12-09,C,Yes,53.3,47.9,11.3,14.3,12.2,Triangle,27.6,10.9,,CX,MF,5,5,3,Triangular Asymetric,Feather,Backed Flake,26.88,74,113
+Lev-12,Levallois,Lev-12-12,C,Yes,105.5,48,10.9,10.6,10.2,Trapezoid,26.4,31.6,9,CX,MF,1,1,0,Triangular Asymetric,Feather,Backed Flake,52.12,76,113
+Lev-12,Levallois,Lev-12-11,C,Yes,46.8,49.6,8.6,7.4,6,Triangle,29.6,8.6,,CX,MF,1,1,0,Triangular Asymetric,Feather,Backed Flake,18.01,83,95
+Lev-12,Levallois,Lev-12-07,C,Yes,42,49.1,6,6.6,6.3,Triangle,3.4,2.2,,CX,L,5,5,4,Triangular Asymetric,Feather,Backed Flake,12.58,87,99
+Lev-12,Levallois,Lev-12-05,C,Yes,55.2,55.1,10.7,10,7.8,Triangle,29.6,9.3,,RT,L,5,5,3,Trapezoidal Asymetric,Feather,Backed Flake,25.11,80,100
+Lev-12,Levallois,Lev-12-01,C,Yes,79.7,58,6.6,8.4,6,Rhombus,22.6,8.7,,CX,MF,5,5,4,Trapezoidal,Feather,Flake,26.16,88,95
+Lev-12,Levallois,Lev-12-08,C,Yes,53,61.3,14.1,15.9,12.3,Trapezoid,16.1,27,11.4,RT,MF,2,2,1,Triangular Asymetric,Feather,Backed Flake,44.39,76,115
+Lev-12,Levallois,Lev-12-03,C,Yes,83.7,50,6.1,6.4,6.9,Triangle,22,8.2,,CX,MF,5,5,5,Trapezoidal,Feather,Flake,25.47,85,96
+Lev-12,Levallois,Lev-12-10,MF,No,88.8,42.9,13.3,10.3,6.1,Rectangle,,,,CC,C,1,1,0,Triangular Asymetric,Step,Backed Flake,31.68,,
+Lev-12,Levallois,Lev-12-04,DF,No,41.5,45.6,10,6.6,3.9,Rectangle,,,,CC,C,5,5,3,Triangular Asymetric,Feather,Backed Flake,15,,
+Lev-15,Levallois,Lev-15-22,C,Yes,76,50.9,9.9,9.5,9,Triangle,19.3,7.3,,CC,MF,1,1,0,Triangular Assymetric,Feather,Backed Flake,35.81,84,102
+Lev-15,Levallois,Lev-15-09,C,Yes,42.9,40.1,7,6.5,4,Ellipse,22.7,5.7,,CX,MF,5,5,5,Trapezoidal,Feather,Flake,10.72,84,95
+Lev-15,Levallois,Lev-15-12,C,Yes,61.3,48.6,6,8.3,2.7,Triangle,14.3,5.6,,CX,MF,5,5,4,Triangular,Plunging,Flake,12.38,89,94
+Lev-15,Levallois,Lev-15-21,C,Yes,67.8,40.8,4.2,5.6,9.1,Triangle,14,4.5,,CX,MF,1,1,0,Triangular Assymetric,Feather,Backed Flake,17.34,81,97
+Lev-15,Levallois,Lev-15-10,C,Yes,52.4,47.7,7.5,6.6,3.6,Trapezoid,23.8,30.1,7.1,CX,MF,5,5,3,Trapezoidal Assymetric,Feather,Backed Flake,14.01,86,94
+Lev-15,Levallois,Lev-15-17,C,Yes,41.6,44,8.1,8.1,5.7,Trapezoid,21.4,26.2,6.8,CX,MF,2,2,1,Circular,Hinge,Flake,15.88,89,94
+Lev-15,Levallois,Lev-15-08,C,Yes,53.4,55,6.5,6,6.9,Rhombus,26.2,7.4,,CX,MF,5,5,5,Triangular,Feather,Flake,16.64,75,100
+Lev-15,Levallois,Lev-15-19,C,Yes,58.8,31.4,10.5,14.4,10.7,Triangle,17.2,7.2,,CX,L,1,1,0,Triangular Assymetric,Feather,Backed Flake,19.19,85,96
+Lev-15,Levallois,Lev-15-16,C,Yes,54.4,45.3,11.4,13.7,6.1,Triangle,11.7,6,,RT,L,5,5,6,Triangular,Feather,Flake,27.24,79,107
+Lev-15,Levallois,Lev-15-03,C,Yes,31.7,41.6,7.1,6,2.3,Rhombus,22.6,7,,CX,MF,5,5,3,Triangular,Hinge,Flake,4.82,61,107
+Lev-15,Levallois,Lev-15-02,C,Yes,41.5,39.4,4,4.6,5.8,Ellipse,10.3,3,,RT,MF,5,5,5,Trapezoidal,Hinge,Flake,6.53,84,103
+Lev-15,Levallois,Lev-15-07,C,Yes,52.1,39,5.4,3.5,5.1,Triangle,15.7,7.3,,RT,L,5,5,4,Triangular,Feather,Flake,9.2,81,98
+Lev-15,Levallois,Lev-15-15,C,Yes,23.4,27,4,4,2.9,Triangle,10.7,4.6,,RT,MF,3,3,2,Triangular Assymetric,Hinge,Backed Flake,2.13,86,96
+Lev-15,Levallois,Lev-15-04,C,Yes,22.5,21.7,4.6,3.8,3.8,Triangle,13.3,4,,CX,MF,4,3,2,Triangular,Hinge,Flake,1.91,88,93
+Lev-15,Levallois,Lev-15-05,C,Yes,28.4,38.2,7,5.7,2.5,Triangle,28.2,8.3,,CX,MF,4,2,2,Trapezoidal Assymetric,Feather,Backed Flake,4.78,82,93
+Lev-15,Levallois,Lev-15-11,C,Yes,41.2,25.4,5.8,5.7,2.8,Ellipse,8.4,3.7,,RT,L,5,5,4,Circular,Feather,Flake,5.16,81,105
+Lev-15,Levallois,Lev-15-13,C,Yes,40.4,23.9,5.2,4.8,2.8,Rhombus,22,5.4,,BF,D,2,2,1,Circular,Feather,Flake,4.84,85,94
+Lev-15,Levallois,Lev-15-14,C,Yes,42.9,55.6,5.5,5.6,6.1,Rhombus,18.9,6,,CX,MF,5,5,3,Trapezoidal Assymetric,Hinge,Pseudo-Point,15.05,86,91
+Lev-15,Levallois,Lev-15-06,C,Yes,38.8,53.1,8,4.6,4,Triangle,31,8.2,,CX,MF,5,5,2,Trapezoidal,Hinge,Flake,12,80,106
+Lev-15,Levallois,Lev-15-01,C,Yes,21.7,42.1,3.8,2.2,3.4,Ellipse,10.6,1.7,,RT,L,5,5,3,Trapezoidal,Feather,Flake,2.47,72,101
+Lev-15,Levallois,Lev-15-18,C,Yes,18.6,19.6,2.4,1.5,1.3,Ellipse,5.1,2.2,,RT,L,5,5,1,Circular,Feather,Flake,0.58,76,105
+Lev-15,Levallois,Lev-15-20,DF,No,39.1,56.8,7.8,10.1,6.7,Rectangle,,,,CC,C,5,5,4,Triangular,Feather,Flake,14.14,,
+Disc-10,Discoid,Disc-10-01,C,Yes,31.4,38.1,9.1,8.7,8.5,Trapezoid,22.9,12.3,9.3,CX,L,5,5,3,Triangular Assymetric,Feather,Backed Flake,8.9,61,118
+Disc-10,Discoid,Disc-10-02,C,Yes,58.2,47.5,8.4,4.9,9,Trapezoid,11.3,17.6,8,CX,L,5,5,1,Triangular Assymetric,Feather,Backed Flake,18.76,68,104
+Disc-10,Discoid,Disc-10-03,C,Yes,34.1,28,3.1,5.4,4.2,Triangle,15.3,2.2,,CX,L,5,5,3,Triangular,Feather,Flake,3.91,71,110
+Disc-10,Discoid,Disc-10-04,C,Yes,45.3,60.9,13.7,13.4,6,Trapezoid,21.5,18.5,5,CC,L,5,5,2,Triangular,Feather,Flake,31.49,50,133
+Disc-10,Discoid,Disc-10-06,C,Yes,57.7,48.2,6.5,11.6,11.9,Triangle,15.2,5.3,,RT,L,4,4,3,Triangular Assymetric,Feather,Backed Flake,27.41,78,116
+Disc-10,Discoid,Disc-10-05,C,Yes,67.9,43.5,18.1,14.5,10.4,Triangle,28.9,13.2,,CX,C,3,3,2,Triangular,Hinge,Flake,41.53,76,95
+Disc-10,Discoid,Disc-10-07,C,Yes,52,48.2,13.7,14.1,14.2,Triangle,19,8.9,,CC,L,1,1,0,Triangular Assymetric,Feather,Backed Flake,35.89,65,125
+Disc-10,Discoid,Disc-10-08,C,Yes,47.5,49.2,21.2,23.1,19.2,Triangle,20.9,12.5,,CX,L,5,5,3,Triangular Assymetric,Feather,Pseudo-Point,34.24,60,123
+Disc-10,Discoid,Disc-10-09,C,Yes,58.2,39.2,13.1,12.5,11.3,Triangle,12.2,9.5,,CX,L,3,3,2,Triangular,Feather,Flake,32.25,60,109
+Disc-10,Discoid,Disc-10-10,C,Yes,52.2,34.2,9.6,9.6,10.2,Triangle,14.6,9.2,,CC,L,5,5,3,Triangular,Feather,Flake,17.67,69,115
+Disc-10,Discoid,Disc-10-12,C,Yes,61.8,46.5,17.6,22,14.7,Triangle,25,10,,CC,L,5,5,3,Triangular Assymetric,Feather,Backed Flake,43.38,63,120
+Disc-10,Discoid,Disc-10-15,C,Yes,64.6,83.3,36.9,35.4,21.4,Trapezoid,22.6,27.1,7.7,RT,L,1,1,0,Trapezoidal Assymetric,Feather,Backed Flake,313.52,59,120
+Disc-10,Discoid,Disc-10-11,C,Yes,59.7,58.3,14.2,16,10.9,Trapezoid,15.8,29.1,10,CX,L,4,4,4,Triangular,Feather,Flake,50,63,109
+Disc-10,Discoid,Disc-10-21,C,Yes,73.7,114.4,27.9,22.1,22.2,Rhombus,27.4,20.9,,RT,L,2,1,1,Triangular Assymetric,Feather,Backed Flake,174.5,55,131
+Disc-10,Discoid,Disc-10-29,C,Yes,107.8,81.3,24.9,22.2,15.1,Trapezoid,9.8,19.7,10.8,RT,L,1,1,0,Triangular Assymetric,Feather,Backed Flake,206.79,76,117
+Disc-10,Discoid,Disc-10-17,C,Yes,64.3,38.7,12.7,9,12.7,Triangle,14.6,6.9,,CX,L,5,5,3,Triangular Assymetric,Feather,Backed Flake,27.95,66,121
+Disc-10,Discoid,Disc-10-22,C,Yes,72.6,55.2,19.7,14.9,11.3,Triangle,50.3,17,,CX,L,1,1,0,Circular,Feather,Flake,61.06,55,118
+Disc-10,Discoid,Disc-10-27,C,Yes,90.8,46.3,22.6,21.9,12.6,Trapezoid,10.3,15.2,4.1,CX,C,1,1,0,Triangular,Feather,Flake,82.84,56,125
+Disc-10,Discoid,Disc-10-20,C,Yes,39.1,43.7,11.2,11.6,6.4,Triangle,25.8,6,,RT,L,2,3,4,Triangular,Feather,Flake,15.65,64,120
+Disc-10,Discoid,Disc-10-23,C,Yes,51.8,33.8,9.5,5.8,3.4,Rhombus,18.2,9,,CC,L,5,5,4,Triangular,Feather,Flake,12,62,115
+Disc-10,Discoid,Disc-10-14,C,Yes,59.5,29.8,10.7,10.4,5.6,Triangle,9.7,7.3,,CC,L,5,5,3,Trapezoidal Assymetric,Feather,Backed Flake,15.27,85,93
+Disc-10,Discoid,Disc-10-30,C,Yes,58.9,67,14.6,16.1,13.5,Triangle,17.1,10.7,,CC,L,3,4,2,Triangular Assymetric,Feather,Backed Flake,62.69,60,115
+Disc-10,Discoid,Disc-10-13,C,Yes,37.4,31,4.9,6.1,5.3,Triangle,16.9,4.2,,CX,L,2,2,2,Triangular,Hinge,Flake,7.02,74,115
+Disc-10,Discoid,Disc-10-18,C,Yes,49.8,62,8.7,14,13.5,Triangle,14.6,5.2,,RT,C,1,1,0,Triangular Assymetric,Feather,Backed Flake,31.59,68,116
+Disc-10,Discoid,Disc-10-26,C,Yes,47.5,28.9,16.8,20,14.3,Triangle,17.8,14.2,,CX,L,5,5,3,Triangular,Feather,Flake,21.06,69,120
+Disc-10,Discoid,Disc-10-31,C,Yes,27.1,28.4,5.5,5.3,5.1,Triangle,21.9,6.9,,CX,L,5,5,4,Trapezoidal,Feather,Flake,4.04,70,122
+Disc-10,Discoid,Disc-10-33,C,Yes,39.2,27.6,6.6,4.4,3.6,Triangle,8.9,5.2,,CX,L,5,5,3,Triangular,Feather,Flake,4.27,61,114
+Disc-10,Discoid,Disc-10-19,C,Yes,28.1,28.2,4.2,3.4,1.7,Triangle,15.2,4.4,,CX,L,5,5,2,Circular,Feather,Flake,2.15,65,124
+Disc-10,Discoid,Disc-10-25,C,Yes,36.5,35.4,5.5,7.2,3.4,Ellipse,9.2,4.4,,CC,L,5,5,2,Triangular Assymetric,Feather,Backed Flake,7.3,63,115
+Disc-10,Discoid,Disc-10-28,C,Yes,16.1,36.4,5.6,5,3,Triangle,5.5,3.5,,CX,L,5,5,2,Circular,Feather,Flake,2,76,110
+Disc-10,Discoid,Disc-10-24,C,Yes,29.6,31.3,7.1,6.5,3.7,Trapezoid,8.3,11.5,5.6,CC,L,5,5,2,Triangular Assymetric,Feather,Backed Flake,5.11,83,105
+Disc-10,Discoid,Disc-10-34,DF,No,42.5,53.2,8.3,13.9,15,Rectangle,,,,CC,C,4,3,2,Triangular Assymetric,Feather,Backed Flake,30.87,,
+Disc-10,Discoid,Disc-10-16,DF,No,35.4,38.7,5.7,6.9,5.6,Rectangle,,,,CC,C,4,3,3,Triangular,Feather,Flake,9.17,,
+Disc-10,Discoid,Disc-10-32,MF,No,31.2,25.7,5.8,6.6,5.7,Rectangle,,,,CC,C,5,5,2,Triangular,Feather,Flake,3.92,,
+Lev-17,Levallois,Lev-17-12,C,Yes,82.6,72.6,18,14.6,6.2,Triangle,24.4,11.2,,CX,L,1,1,0,Triangular,Feather,Flake,47.18,70,118
+Lev-17,Levallois,Lev-17-11,C,Yes,53.9,64.3,14.1,12.8,11,Trapezoid,34.3,40.7,9.6,CX,MF,3,2,3,Triangular,Feather,Flake,43.74,75,111
+Lev-17,Levallois,Lev-17-06,C,Yes,69,80,17.1,20.4,8,Rhombus,30,10.9,,CX,MF,2,2,2,Trapezoidal Assymetric,Feather,Backed Flake,67.55,85,97
+Lev-17,Levallois,Lev-17-09,C,Yes,49.6,48.4,11.7,13.2,7.7,Triangle,19.3,8,,CX,MF,5,5,4,Triangular Assymetric,Feather,Backed Flake,18.11,78,106
+Lev-17,Levallois,Lev-17-01,C,Yes,57.2,68.5,15.5,11.9,9.1,Triangle,14.8,13.2,,CX,MF,5,5,2,Triangular Assymetric,Hinge,Backed Flake,25.98,80,110
+Lev-17,Levallois,Lev-17-03,C,Yes,62,43.9,6.2,7.4,4.1,Trapezoid,19.7,6.2,5.7,RT,MF,5,5,4,Triangular,Feather,Flake,18.3,81,93
+Lev-17,Levallois,Lev-17-02,PF,No,48.6,59.8,7.1,7.6,6.7,Rhombus,28.2,8,,CX,MF,5,5,3,Trapezoidal,Inflexed,Flake,19.29,84,94
+Lev-17,Levallois,Lev-17-10,C,Yes,53,51.8,7.3,10.5,5.6,Rhombus,20.2,5.8,,CX,L,1,1,0,Trapezoidal Assymetric,Feather,Backed Flake,23.82,80,110
+Lev-17,Levallois,Lev-17-04,C,Yes,68.9,41.3,11.5,10.1,10.2,Rhombus,24.1,10.5,,CX,MF,5,5,3,Triangular,Hinge,Flake,28.24,81,115
+Lev-17,Levallois,Lev-17-08,C,Yes,38.6,57.8,5.5,5.9,6.8,Triangle,12.5,4.6,,CC,L,4,3,2,Trapezoidal,Hinge,Flake,14.27,62,115
+Lev-17,Levallois,Lev-17-05,C,Yes,38.8,59.8,9.1,10.5,7.6,Rhombus,17.3,8.9,,CC,L,5,5,4,Triangular,Feather,Flake,17.65,79,117
+Lev-17,Levallois,Lev-17-15,C,Yes,31.5,66.7,8.6,8.1,4.1,Trapezoid,14.4,24.8,4.4,CX,L,5,5,3,Trapezoidal,Hinge,Flake,12.2,75,112
+Lev-17,Levallois,Lev-17-14,C,Yes,30.8,45.8,8.5,7.3,7,Triangle,7.8,3.1,,RT,L,5,5,2,Triangular Assymetric,Hinge,Backed Flake,8.73,75,105
+Lev-17,Levallois,Lev-17-18,PF,No,28.4,45.2,6.3,5.1,3.3,Trapezoid,19,13,5.5,CX,MF,5,5,2,Trapezoidal,Step,Flake,6.36,58,112
+Lev-17,Levallois,Lev-17-13,C,Yes,34.1,32,10,7.3,9.3,Triangle,20,6.2,,CX,MF,5,5,2,Triangular Assymetric,Hinge,Backed Flake,11.17,76,110
+Lev-04,Levallois,Lev-04-01,C,Y,63.1,37.9,7.3,5.5,2.5,Trapezoid,14.7,25.5,5.6,CX,MF,5,5,3,Trapezoidal,Feather,Flake,14.55,85,94
+Lev-04,Levallois,Lev-04-02,C,Y,46.4,31.3,7.5,5.9,3.2,Rhombus,25.4,9.8,,CX,MF,5,5,3,Triangular,Feather,Flake,9.43,72,110
+Lev-04,Levallois,Lev-04-03,PF,N,40.8,39.8,7,7.3,6.2,Trapezoid,12.8,20.7,4.2,CX,MF,5,5,3,Trapezoidal,Step,Flake,11.98,87,91
+Lev-04,Levallois,Lev-04-04,C,Y,31.5,34.8,6.6,4.4,2.6,Triangular,13,4.8,,BF,D,5,5,3,Triangular Asymmetric,Feather,Pseudo-Point,4.78,75,98
+Lev-04,Levallois,Lev-04-05,C,Y,44.2,35.4,6,3.4,2.3,Ellipse,21.3,6.6,,BF,D,5,5,2,Triangular,Feather,Flake,4.96,70,109
+Lev-04,Levallois,Lev-04-06,C,Y,39.5,44.1,7.3,4.9,2.4,Trapezoid,10.2,16.4,5.4,BF,D,5,5,4,Trapezoidal,Feather,Flake,9.14,73,112
+Lev-04,Levallois,Lev-04-07,C,Y,27.4,31.5,4,3,1.7,Ellipse,7,2.4,,RT,L,5,5,3,Trapezoidal,Feather,Flake,2.73,85,97
+Lev-04,Levallois,Lev-04-08,C,Y,33.2,26.4,2.3,1.8,1.3,Ellipse,6.6,1.9,,RT,L,5,5,1,Circular,Feather,Flake,1.82,89,94
+Lev-04,Levallois,Lev-04-09,C,Y,42.1,36.7,10.3,8.9,4.1,Rhombus,22,7.2,,CX,L,1,1,0,Circular,Feather,Flake,13.17,55,112
+Lev-04,Levallois,Lev-04-10,C,Y,41.5,41.3,8.4,7,3.3,Rhombus,15.3,5.2,,CX,L,2,3,1,Circular,Feather,Flake,12.22,56,114
+Lev-04,Levallois,Lev-04-11,C,Y,44.6,37.3,3.7,3.2,3.1,Rectangle,12.3,3.6,,RT,MF,3,3,3,Trapezoidal,Feather,Flake,6.6,85,96
+Lev-04,Levallois,Lev-04-12,C,Y,31.9,33.5,6.6,5.5,2.6,Trapezoid,7.3,18.5,6.6,CX,MF,2,3,2,Triangular,Feather,Flake,5.22,88,86
+Lev-04,Levallois,Lev-04-13,C,Y,33,36.1,7.2,6.4,4.5,Ellipse,5.5,2.1,,RT,L,2,2,1,Circular,Hinge,Flake,8.76,58,122
+Lev-04,Levallois,Lev-04-14,C,Y,33.8,32.1,8.5,7.6,4.9,Trapezoid,11.5,11.6,4.8,CX,L,2,1,2,Circular,Feather,Flake,7.88,39,130
+Lev-04,Levallois,Lev-04-15,C,Y,29.9,38,6.8,6.2,3.1,Ellipse,9.1,2.1,,RT,L,1,1,0,Circular,Feather,Flake,5.76,60,113
+Lev-04,Levallois,Lev-04-16,C,Y,38.2,42.6,10.3,7.9,4,Triangular,12.2,10.2,,CX,C,3,2,1,Circular,Feather,Flake,14.28,61,110
+Lev-04,Levallois,Lev-04-17,C,Y,35.4,45.2,6.4,8.5,6.5,Ellipse,8.8,3.4,,CX,C,2,1,2,Trapezoidal,Feather,Flake,13.93,80,110
+Lev-04,Levallois,Lev-04-18,C,Y,42.4,44,5.9,7.2,3.9,Ellipse,5.4,2.9,,RT,L,3,2,2,Circular,Feather,Flake,13.08,79,115
+Lev-04,Levallois,Lev-04-19,C,Y,54.6,31.8,5.5,4.8,2.3,Triangular,5,3.2,,CX,L,2,2,1,Trapezoidal,Feather,Flake,7.53,61,120
+Lev-04,Levallois,Lev-04-20,C,Y,45.9,38.7,4.5,6.9,3.8,Ellipse,7.3,2.3,,CX,MF,3,2,1,Triangular,Feather,Flake,9.87,85,95
+Lev-04,Levallois,Lev-04-21,C,Y,35.7,44,6.4,4.1,2.8,Rectangle,11.1,4.1,,BF,D,5,5,3,Trapezoidal,Feather,Flake,7.17,85,98
+Lev-04,Levallois,Lev-04-22,C,Y,34.2,35,6.6,5.5,4.3,Trapezoid,8.4,15.2,5,CX,MF,5,5,4,Trapezoidal,Feather,Flake,7.39,85,98
+Lev-04,Levallois,Lev-04-23,C,Y,49,32.2,3.3,3.3,2.6,Triangular,3.9,2.2,,CX,L,5,5,4,Trapezoidal,Feather,Flake,4.96,88,93
+Lev-04,Levallois,Lev-04-24,C,Y,44.7,28.1,3,4.3,2.9,Ellipse,4.4,2.6,,CX,L,4,3,4,Trapezoidal,Feather,Flake,4.34,85,93
+Lev-04,Levallois,Lev-04-25,C,Y,33.4,22.7,4,2.6,2.4,Ellipse,5.8,2.1,,CX,MF,5,5,3,Circular,Hinge,Flake,2.73,84,91
+Lev-04,Levallois,Lev-04-26,C,Y,25.5,27.6,6.4,4.4,2.3,Ellipse,5.4,2.2,,CX,L,5,5,2,Triangular,Hinge,Flake,3.11,74,105
+Lev-04,Levallois,Lev-04-27,C,Y,24.3,27.6,4.7,4.4,2.2,Ellipse,10,3,,BF,D,5,5,2,Trapezoidal,Feather,Flake,2.34,81,98
+Lev-04,Levallois,Lev-04-28,C,Y,27.7,31.2,9.1,9.5,4,Trapezoid,10,14.7,4.4,CX,C,2,2,1,Triangular,Feather,Flake,5.39,78,111
+Lev-04,Levallois,Lev-04-29,C,Y,36.3,32,8.7,6.1,3.5,Ellipse,4.3,2,,CX,C,3,3,2,Triangular,Feather,Flake,6.53,78,94
+Lev-04,Levallois,Lev-04-30,C,Y,29.9,33.5,6.9,5,3,Ellipse,7.7,2,,CX,L,1,1,0,Circular,Feather,Flake,6.43,49,130
+H-Discoid-1,HDiscoid,HD-01-01,C,Y,65.2,39.4,16.4,17.1,12.2,Triangular,10.5,6.7,,CX,L,4,5,2,Trapezoidal Asymmetric,Feather,Backed Flake,30.63,55,126
+H-Discoid-1,HDiscoid,HD-01-02,C,Y,41.7,50,12,10.7,6.1,Trapezoid,18,26.7,7.8,RT,C,5,5,3,Trapezoidal Asymmetric,Feather,Backed Flake,19.1,64,119
+H-Discoid-1,HDiscoid,HD-01-03,C,Y,39.9,27.4,5.1,5.2,5,Trapezoid,12.6,18,2.8,CX,L,5,5,3,Triangular,Feather,Flake,6.3,70,109
+H-Discoid-1,HDiscoid,HD-01-04,C,Y,73.5,57.9,13.6,12.6,19.8,Rhombus,22.7,9,,RT,L,4,3,4,Triangular,Plunging,Flake,68.04,74,110
+H-Discoid-1,HDiscoid,HD-01-05,C,Y,48.9,33.8,12.9,8.8,8.8,Trapezoid,9.8,19.7,9.2,CX,MF,5,5,2,Trapezoidal Asymmetric,Feather,Backed Flake,22.91,80,95
+H-Discoid-1,HDiscoid,HD-01-06,C,Y,50.5,37.4,6.3,6.6,4.2,Triangular,10.7,6.8,,RT,L,5,5,3,Triangular,Feather,Flake,10.35,80,101
+H-Discoid-1,HDiscoid,HD-01-07,C,Y,64.9,42.2,17.7,16.9,11.6,Triangular,21.1,12.4,,CC,C,5,5,4,Triangular Asymmetric,Feather,Backed Flake,42.76,66,121
+H-Discoid-1,HDiscoid,HD-01-08,PF,N,34.6,45.7,9.6,8.5,7.4,Trapezoid,18.3,26.7,5.6,CX,MF,3,2,1,Triangular,Step,Flake,14.84,70,109
+H-Discoid-1,HDiscoid,HD-01-09,C,Y,37.5,69.7,11.1,10.7,5.1,Trapezoid,21.4,34.5,7.5,CX,C,2,2,3,Trapezoid,Feather,Flake,19.9,58,125
+H-Discoid-1,HDiscoid,HD-01-10,C,Y,56.5,32.5,13,9.7,9.9,Ellipse,16,4.5,,RT,C,2,2,2,Triangular,Feather,Flake,20.68,49,134
+H-Discoid-1,HDiscoid,HD-01-11,C,Y,91.2,55.3,14.1,14.4,12.3,Rhombus,35.6,12.9,,BF,D,1,1,0,Triangular,Plunging,Flake,81.74,78,115
+H-Discoid-2,HDiscoid,HD-02-04,C,Y,67,48.7,9.5,6.3,3.9,Triangular,18.5,8,,CC,L,1,1,0,Triangular Asymmetric,Feather,Backed Flake,25.53,72,110
+H-Discoid-2,HDiscoid,HD-02-05,C,Y,44.9,54,16.6,13.6,6.1,Triangular,18.6,9.2,,CC,MF,3,2,1,Triangular Asymmetric,Feather,Backed Flake,26.29,72,110
+H-Discoid-2,HDiscoid,HD-02-06,C,Y,62.5,59.8,12.1,12.3,8.4,Trapezoid,18.7,27.2,6.5,RT,C,3,2,3,Trapezoidal Asymmetric,Feather,Backed Flake,43.44,65,115
+H-Discoid-2,HDiscoid,HD-02-07,C,Y,46.7,44,9.3,5.8,4.9,Rhombus,21.6,8.8,,CC,L,5,5,2,Triangular,Hinge,Flake,13.43,69,100
+H-Discoid-2,HDiscoid,HD-02-08,C,Y,46.1,28.2,10.2,7,4.5,Trapezoid,6.6,16.5,6.6,CX,L,4,2,2,Triangular,Feather,Flake,8.41,63,111
+H-Discoid-2,HDiscoid,HD-02-09,C,Y,61.5,56.5,11.9,11.7,6.4,Rhombus,10,24.1,,BF,D,5,5,4,Triangular,Feather,Flake,29.64,76,109
+H-Discoid-2,HDiscoid,HD-02-10,C,Y,71.1,50.8,10.9,9.9,7.5,Trapezoid,7.3,11.5,6.8,RT,L,5,5,4,Triangular Asymmetric,Feather,Backed Flake,25.76,70,110
+H-Discoid-3,HDiscoid,HD-03-01,C,Y,74,44.5,14.7,12.5,10.9,Trapezoid,12.3,25,10.7,CX,L,5,5,3,Triangular Asymmetric,Feather,Backed Flake,45.23,65,110
+H-Discoid-3,HDiscoid,HD-03-02,C,Y,69.8,45.2,13.4,10,5.9,Trapezoid,7.8,20.7,4.4,CX,L,4,4,3,Triangular,Feather,Flake,28.66,56,118
+H-Discoid-3,HDiscoid,HD-03-03,C,Y,83,41.7,10.7,14.2,12.5,Trapezoid,3.8,14.9,5.7,RT,L,5,5,5,Triangular Asymmetric,Feather,Backed Flake,39.97,65,110
+H-Discoid-3,HDiscoid,HD-03-04,C,Y,74.1,45,9.3,7.3,4.3,Triangular,11.4,5.3,,RT,L,5,5,4,Trapezoidal Asymmetric,Feather,Backed Flake,26.89,75,108
+H-Discoid-3,HDiscoid,HD-03-05,C,Y,40.4,42.7,5.4,4.9,2.3,Triangular,28.3,4.8,,BF,D,5,5,2,Circular,Feather,Flake,6.93,83,100
+H-Discoid-3,HDiscoid,HD-03-06,C,Y,47.2,48,15.5,19.9,9.7,Rhombus,20.4,10.8,,CC,L,5,5,4,Triangular,Feather,Flake,37.34,75,122
+H-Discoid-3,HDiscoid,HD-03-07,C,Y,45,40,5.6,8.1,4.2,Ellipse,13.8,4,,RT,L,5,5,3,Triangular,Feather,Flake,8.66,74,105
+H-Discoid-3,HDiscoid,HD-03-08,C,Y,74.2,43.8,5.9,8.5,7.1,Triangular,15.2,5.5,,CX,L,5,5,4,Triangular,Feather,Flake,15.36,76,108
+H-Discoid-3,HDiscoid,HD-03-09,C,Y,60.8,58.5,7.4,8.9,7.2,Ellipse,6.3,3.1,,CX,L,2,2,1,Circular,Feather,Flake,23.1,80,106
+H-Discoid-3,HDiscoid,HD-03-10,C,Y,50.6,54.3,12.9,19.4,7.7,Trapezoid,7,22.1,5.4,CX,C,2,2,1,Circular,Feather,Flake,48.01,59,140
+H-Discoid-4,HDiscoid,HD-04-01,C,Y,66.8,40.8,7.4,10.3,10.5,Ellipse,22.2,6.2,,CX,L,5,5,4,Trapezoidal Asymmetric,Feather,Backed Flake,25.98,67,115
+H-Discoid-4,HDiscoid,HD-04-02,C,Y,84.4,46,14.5,17.4,13.5,Triangular,18,12,,CX,L,4,3,5,Trapezoidal Asymmetric,Feather,Backed Flake,78.35,69,110
+H-Discoid-4,HDiscoid,HD-04-03,C,Y,39.6,48.5,10.3,17.2,11.5,Triangular,8.3,6.3,,CX,L,5,5,3,Triangular Asymmetric,Feather,Backed Flake,20.57,70,114
+H-Discoid-4,HDiscoid,HD-04-04,C,Y,49.8,38.1,4.1,5.9,7.5,Ellipse,8.7,3.3,,RT,L,5,5,2,Trapezoidal Asymmetric,Feather,Backed Flake,10.97,71,115
+H-Discoid-4,HDiscoid,HD-04-05,C,Y,59.7,38.2,7.4,7.5,4.8,Trapezoid,9.9,23.3,5.6,CC,L,5,5,4,Trapezoid,Feather,Flake,17.95,68,110
+H-Discoid-4,HDiscoid,HD-04-06,C,Y,81.7,49.1,11.1,13.6,19.3,Trapezoid,9,21.8,9.3,CC,L,4,3,3,Triangular Asymmetric,Feather,Backed Flake,48.31,75,114
+H-Discoid-4,HDiscoid,HD-04-07,C,Y,86.6,84.5,10.7,10.3,11.5,Trapezoid,10.6,24.1,5.6,CX,C,3,2,2,Trapezoidal Asymmetric,Feather,Backed Flake,50.75,76,114
+H-Discoid-4,HDiscoid,HD-04-08,C,Y,51.4,36.8,14,11.5,8.3,Triangular,34.4,12.9,,CX,MF,5,5,3,Triangular,Feather,Flake,20.51,70,104
+H-Discoid-4,HDiscoid,HD-04-09,C,Y,82.1,54.2,15.6,14,8.1,Triangular,31,13.9,,CC,L,3,2,3,Triangular,Hinge,Flake,55.89,60,120
+H-Discoid-4,HDiscoid,HD-04-10,C,Y,52.8,42.8,6.6,7,10.7,Ellipse,6,2.3,,RT,L,3,2,1,Triangular,Hinge,Flake,19.38,70,115
+H-Discoid-4,HDiscoid,HD-04-11,C,Y,81,65.4,26.5,20.8,12.3,Ellipse,27.4,11.2,,CC,L,1,1,0,Circular,Feather,Flake,121.41,59,124
+H-Discoid-4,HDiscoid,HD-04-12,C,Y,56.4,31.7,12.9,11.6,6,Triangular,20.7,10.3,,CC,C,4,4,1,Triangular Asymmetric,Feather,Backed Flake,18.2,61,121
+H-Discoid-4,HDiscoid,HD-04-13,C,Y,50.5,21.1,8,8.2,6.7,Triangular,12.6,6.1,,CX,L,1,1,0,Triangular,Feather,Flake,8.52,80,101
+H-Discoid-5,HDiscoid,HD-05-01,C,Y,72.3,51.7,15.2,14.3,11.3,Trapezoid,16.2,22.5,5.4,RT,L,5,5,5,Triangular,Hinge,Flake,49.28,75,112
+H-Discoid-5,HDiscoid,HD-05-02,C,Y,47.8,70.2,9.9,11.3,10.1,Triangular,7.8,5.4,,RT,L,5,5,4,Triangular,Feather,Flake,33.18,85,101
+H-Discoid-5,HDiscoid,HD-05-03,C,Y,68,34,16.7,13.3,10.3,Triangular,21.1,13.3,,CC,L,4,3,3,Trapezoidal Asymmetric,Feather,Backed Flake,36.2,74,97
+H-Discoid-5,HDiscoid,HD-05-04,C,Y,45.5,76,9,11.6,8.8,Triangular,28.3,7.8,,RT,MF,2,2,1,Trapezoidal Asymmetric,Hinge,Backed Flake,37.16,85,97
+H-Discoid-5,HDiscoid,HD-05-05,C,Y,66.6,38.4,13.5,13.7,7.2,Trapezoid,13,26.1,10.7,CX,C,1,1,0,Triangular Asymmetric,Feather,Backed Flake,33.33,82,109
+H-Discoid-5,HDiscoid,HD-05-06,C,Y,57.2,74.6,14.4,13.9,10.4,Triangular,15.4,15.3,,CC,L,2,2,1,Trapezoidal Asymmetric,Hinge,Backed Flake,54.75,60,115
+H-Discoid-5,HDiscoid,HD-05-07,C,Y,56.5,57.2,14.3,13.8,4.9,Trapezoid,24.8,13,12.3,CC,L,1,1,0,Triangular Asymmetric,Feather,Backed Flake,39.9,50,130
+H-Discoid-5,HDiscoid,HD-05-08,C,Y,63.3,61,18,23.8,9,Triangular,20,10.3,,CX,C,1,1,0,Trapezoidal Asymmetric,Feather,Backed Flake,74.29,71,121
+H-Discoid-6,HDiscoid,HD-06-01,C,Y,40.7,45,16.8,10.7,5.2,Triangular,14,12.1,,CC,L,5,5,2,Triangular Asymmetric,Feather,Backed Flake,17.2,50,110
+H-Discoid-6,HDiscoid,HD-06-02,C,Y,47.4,42.3,11.1,9.8,11.3,Trapezoid,14.4,24.4,4.4,RT,L,5,5,4,Trapezoidal Asymmetric,Feather,Backed Flake,25.46,57,121
+H-Discoid-6,HDiscoid,HD-06-03,C,Y,49.7,36,16.7,20,12.1,Triangular,7.8,7.6,,RT,L,5,5,4,Triangular Asymmetric,Feather,Backed Flake,29.49,75,130
+H-Discoid-6,HDiscoid,HD-06-04,C,Y,33.2,43.2,7.7,6.9,5.8,Triangular,15.8,5.6,,CC,L,5,5,3,Trapezoid,Hinge,Flake,8.93,71,120
+H-Discoid-6,HDiscoid,HD-06-05,C,Y,66.2,40.2,16.6,20.1,16.3,Trapezoid,20.2,26.6,13,CX,L,1,1,0,Triangular Asymmetric,Feather,Backed Flake,43.24,73,129
+H-Discoid-6,HDiscoid,HD-06-06,C,Y,46,46.7,11.5,10,4.2,Trapezoid,17.8,19.7,11,CC,L,2,2,1,Circular,Feather,Flake,19.98,55,120
+H-Discoid-6,HDiscoid,HD-06-07,C,Y,77.5,34.3,12.2,8.4,9.2,Triangular,17.6,9,,RT,L,1,1,0,Triangular Asymmetric,Feather,Backed Flake,21.15,59,126
+H-Discoid-6,HDiscoid,HD-06-08,C,Y,66.4,42.4,12,9.9,10.7,Trapezoid,16.6,24.2,7.8,CX,L,3,3,3,Trapezoidal Asymmetric,Feather,Backed Flake,37.41,65,121
+H-Discoid-6,HDiscoid,HD-06-09,C,Y,42.1,37.2,12.3,11.2,6.3,Triangular,11.2,10.5,,RT,L,5,5,3,Triangular,Feather,Flake,13.24,75,103
+H-Discoid-6,HDiscoid,HD-06-10,C,Y,91,61.5,19.4,21.2,10.6,Triangular,30.1,15,,CX,L,3,2,5,Triangular,Feather,Flake,105.16,79,111
+H-Discoid-7,HDiscoid,HD-07-01,C,Y,61.2,32.5,10.8,13.8,7.5,Trapezoid,8.5,18.2,5.1,CX,L,5,5,3,Triangular Asymmetric,Feather,Backed Flake,23.15,74,119
+H-Discoid-7,HDiscoid,HD-07-02,C,Y,31.3,42.6,4.2,3.4,2.2,Trapezoid,10.7,18.1,3.7,RT,L,5,5,3,Trapezoidal,Feather,Flake,4.63,74,108
+H-Discoid-7,HDiscoid,HD-07-03,C,Y,44.9,25.5,5.3,5.3,2.9,Ellipse,6.2,2.3,,RT,L,5,5,3,Triangular,Feather,Flake,4.05,71,106
+H-Discoid-7,HDiscoid,HD-07-04,C,Y,56.3,36.4,10.4,9.1,9,Triangular,9.3,6.4,,RT,L,5,5,3,Trapezoidal Asymmetric,Feather,Backed Flake,19.39,60,122
+H-Discoid-7,HDiscoid,HD-07-05,C,Y,61.5,25.6,12.5,12.5,8.6,Trapezoid,19.2,25.8,6.7,CX,L,5,5,3,Trapezoidal Asymmetric,Feather,Backed Flake,19.68,75,106
+H-Discoid-7,HDiscoid,HD-07-06,C,Y,74.1,63.2,12.5,17.4,8.7,Triangular,18.3,5.2,,BF,D,5,5,4,Triangular,Feather,Flake,51.96,84,106
+H-Discoid-7,HDiscoid,HD-07-07,C,Y,41.1,49.4,4.2,5.5,5.3,Trapezoid,8.4,12.6,3.6,RT,L,5,5,3,Trapezoidal Asymmetric,Feather,Backed Flake,11.74,72,115
+H-Discoid-7,HDiscoid,HD-07-08,C,Y,36.7,37.3,7.4,9.5,4.9,Triangular,6.7,4.3,,RT,L,5,5,2,Triangular Asymmetric,Feather,Backed Flake,8.34,72,115
+H-Discoid-7,HDiscoid,HD-07-09,C,Y,62.3,39.2,9.2,13.6,6.8,Trapezoid,15.2,27.6,9.2,BF,D,3,2,3,Triangular,Feather,Flake,27.54,79,120
+H-Discoid-7,HDiscoid,HD-07-10,C,Y,75.8,41.1,18.4,24.9,15.5,Triangular,15.2,10.8,,CX,L,4,2,4,Triangular Asymmetric,Feather,Backed Flake,52.98,70,120
+H-Discoid-7,HDiscoid,HD-07-11,C,Y,38.2,34.4,10.9,8.9,5.9,Triangular,19.5,11.2,,CX,C,3,2,1,Triangular,Hinge,Flake,9.98,63,110
+H-Discoid-7,HDiscoid,HD-07-12,C,Y,49.8,39.2,6.8,5.7,3.5,Triangular,22,5.2,,RT,L,3,2,2,Triangular,Feather,Flake,10.47,64,114
+H-Discoid-7,HDiscoid,HD-07-13,C,Y,58.9,37.9,7.3,7.5,4.7,Trapezoid,4.6,8.8,2.2,CX,C,2,2,1,Triangular,Feather,Flake,7.43,70,116
+H-Discoid-7,HDiscoid,HD-07-14,C,Y,78.8,82.4,21,21.9,9.8,Trapezoid,26.8,54.7,15,CX,C,1,1,0,Trapezoid,Feather,Flake,133.05,64,122
+Discoid-08,Discoid,Disc-08-01,C,Y,40.4,31.4,4.2,7.1,2.7,Triangular,6.4,2.4,,RT,L,5,5,2,Trapezoidal Asymmetric,Feather,Backed Flake,7.2,76,120
+Discoid-08,Discoid,Disc-08-02,C,Y,42.2,41.6,11.5,13,7.5,Rectangle,40,7.9,,CX,L,5,5,3,Triangular,Feather,Flake,23.03,77,119
+Discoid-08,Discoid,Disc-08-03,C,Y,28.9,38.5,12.7,9.1,5.7,Rhombus,33.7,12.5,,BF,D,5,5,3,Trapezoid,Feather,Flake,11.82,54,112
+Discoid-08,Discoid,Disc-08-04,C,Y,58.6,39.4,16.6,12.7,6.6,Triangular,11.6,5.7,,CX,L,5,5,4,Triangular,Feather,Flake,23.87,60,114
+Discoid-08,Discoid,Disc-08-05,C,Y,41,35.1,15.4,11.8,6.8,Rectangle,15.2,4,,RT,L,5,5,3,Triangular Asymmetric,Feather,Backed Flake,14.04,56,115
+Discoid-08,Discoid,Disc-08-06,C,Y,40.2,28,12.8,13.5,9.5,Triangular,12.1,6.4,,RT,L,5,5,3,Triangular Asymmetric,Feather,Backed Flake,10.27,83,98
+Discoid-08,Discoid,Disc-08-07,C,Y,36.8,30.7,9.4,10.5,5.3,Triangular,12.1,5.8,,RT,L,5,5,2,Triangular Asymmetric,Feather,Backed Flake,9.82,75,120
+Discoid-08,Discoid,Disc-08-08,C,Y,41.7,28.4,9.3,7,4.5,Ellipse,16.8,8.3,,CC,L,4,2,2,Triangular,Feather,Flake,9.74,70,105
+Discoid-08,Discoid,Disc-08-09,C,Y,46.7,27.8,7.1,7.1,5.8,Triangular,18.2,7.1,,CX,L,5,5,2,Triangular Asymmetric,Feather,Backed Flake,10.28,85,91
+Discoid-08,Discoid,Disc-08-10,C,Y,49.2,23.1,10.1,8.3,4.8,Triangular,13.4,7.4,,RT,L,5,5,3,Triangular,Feather,Flake,8.65,77,110
+Discoid-08,Discoid,Disc-08-11,C,Y,31.6,27.2,14.7,7.9,3.6,Triangular,26.2,14.8,,CX,L,5,5,2,Triangular,Feather,Flake,6.47,56,103
+Discoid-08,Discoid,Disc-08-12,C,Y,67.5,36.6,10,11,4.1,Trapezoid,7.5,12.6,4.9,RT,L,5,5,4,Triangular,Feather,Flake,20.87,73,109
+Discoid-08,Discoid,Disc-08-13,C,Y,63,36.1,9.6,10.7,7.2,Trapezoid,6,16.6,5.3,RT,L,5,5,5,Triangular,Feather,Flake,22.03,66,119
+Discoid-08,Discoid,Disc-08-14,C,Y,52.7,45.8,12.5,10.6,6.2,Rhombus,22.6,12.8,,CC,L,5,5,3,Triangular,Feather,Flake,24.26,74,116
+Discoid-08,Discoid,Disc-08-15,C,Y,52.8,39,13.2,13.1,5.8,Ellipse,3.2,2.5,,RT,L,3,2,1,Triangular Asymmetric,Feather,Backed Flake,19.44,65,119
+Discoid-08,Discoid,Disc-08-16,C,Y,58.2,33.7,16.1,10.7,4.8,Ellipse,5.5,2.4,,CC,L,2,2,2,Triangular,Feather,Flake,22.67,70,122
+Discoid-08,Discoid,Disc-08-17,C,Y,58.9,46.5,14.4,16.7,8.6,Triangular,36,12.2,,CX,C,2,2,1,Triangular Asymmetric,Feather,Backed Flake,37.99,71,119
+Discoid-08,Discoid,Disc-08-18,C,Y,37.9,21.7,7.8,6.4,3.2,Ellipse,4.3,2.3,,RT,L,2,2,2,Triangular,Feather,Flake,6.18,67,120
+Discoid-08,Discoid,Disc-08-19,C,Y,46.9,33.7,10.4,11.4,7.1,Ellipse,6.8,2.9,,CX,L,5,5,3,Triangular,Feather,Flake,13.62,65,118
+Discoid-08,Discoid,Disc-08-20,C,Y,53.8,33.4,11.8,8.3,9.9,Triangular,21.2,10.2,,RT,L,3,2,1,Triangular,Feather,Flake,18.05,58,115
+Discoid-08,Discoid,Disc-08-21,C,Y,46.2,38.9,7.9,6.1,7.3,Rhombus,21.3,8.2,,RT,L,2,2,2,Triangular,Feather,Flake,13.53,65,108
+Discoid-08,Discoid,Disc-08-22,C,Y,37,24.8,3.7,4.8,5.2,Rhombus,14.8,5,,CX,L,5,5,4,Triangular,Feather,Flake,4.66,70,105
+Discoid-08,Discoid,Disc-08-23,C,Y,65.2,54.9,9.3,16.1,8,Ellipse,7,3.1,,RT,L,1,1,0,Triangular,Feather,Flake,36.95,90,105
+Discoid-08,Discoid,Disc-08-24,C,Y,47.7,47.1,9.8,5.1,2.7,Trapezoid,4.8,14,7.7,RT,L,5,5,2,Triangular Asymmetric,Feather,Pseudo-Point,12.18,58,115
+Discoid-08,Discoid,Disc-08-25,C,Y,32.2,31.9,7.8,5.2,1.9,Rhombus,10.6,2.7,,CX,L,5,5,3,Circular,Feather,Backed Flake,5.54,45,136
+Discoid-08,Discoid,Disc-08-26,C,Y,47.8,55.7,21,15.3,8.2,Rhombus,24.2,33.3,11.4,RT,C,1,1,0,Triangular,Feather,Flake,44.22,37,126
+Discoid-08,Discoid,Disc-08-27,C,Y,35.2,31.2,5.6,3.7,4.3,Rectangle,30.8,4.7,,CX,L,5,5,2,Trapezoid,Feather,Flake,4.68,62,117
+Discoid-09,Discoid,Disc-09-01,C,Y,35,27.3,6.7,13.3,4.8,Ellipse,12.2,4,,CX,L,5,5,2,Triangular Asymmetric,Feather,Pseudo-Point,6.6,70,120
+Discoid-09,Discoid,Disc-09-02,C,Y,46.3,45,7.2,11.2,6.1,Trapezoid,11.4,9.6,6.1,RT,C,5,5,3,Triangular Asymmetric,Feather,Backed Flake,18.45,70,112
+Discoid-09,Discoid,Disc-09-03,C,Y,42.9,46.8,7.4,14.5,7.3,Triangular,5,4.5,,RT,L,5,5,2,Triangular Asymmetric,Feather,Backed Flake,16.25,82,116
+Discoid-09,Discoid,Disc-09-04,C,Y,42.8,41.4,8.9,7.4,6.3,Triangular,13.2,8.1,,CX,L,5,5,4,Trapezoid,Feather,Flake,13.48,70,120
+Discoid-09,Discoid,Disc-09-05,C,Y,36.7,38.1,8.1,7.4,6.8,Rhombus,20.7,6.8,,CX,L,5,5,3,Trapezoid,Feather,Flake,11.62,71,110
+Discoid-09,Discoid,Disc-09-06,C,Y,41.9,31.8,10.3,8.5,4.4,Rectangle,9.9,4.8,,RT,L,5,5,2,Triangular,Feather,Backed Flake,10.14,48,130
+Discoid-09,Discoid,Disc-09-07,C,Y,50.1,41.1,11.5,12,7.8,Trapezoid,20,26.8,7.8,CC,L,3,3,3,Trapezoid,Feather,Flake,25.71,70,115
+Discoid-09,Discoid,Disc-09-08,C,Y,43.6,39.4,12.5,9.2,6,Rhombus,25.1,9.4,,RT,L,5,5,4,Triangular,Feather,Flake,15.9,59,110
+Discoid-09,Discoid,Disc-09-09,C,Y,49.8,44.6,10.8,9.3,8.1,Trapezoid,10,21.4,6.8,CX,L,2,3,3,Trapezoid,Feather,Flake,22.1,76,110
+Discoid-09,Discoid,Disc-09-10,FP,N,29.2,32.5,9.7,11.8,6.1,ST,,,,ST,ST,2,3,1,Circular,Feather,Flake,9.45,,
+Discoid-09,Discoid,Disc-09-11,C,Y,37.5,25.8,9.6,9,5.5,Triangular,16.4,9.2,,CC,L,3,3,2,Triangular,Feather,Flake,7.17,88,93
+Discoid-09,Discoid,Disc-09-12,C,Y,53.8,39.9,5.1,5.4,7,Triangular,6.8,4.3,,RT,L,3,3,2,Triangular,Feather,Flake,9.15,71,106
+Discoid-09,Discoid,Disc-09-13,C,Y,62.9,33,7.3,13.8,9.2,Triangular,6.5,5.3,,RT,L,2,2,2,Triangular Asymmetric,Feather,Backed Flake,17,77,110
+Discoid-09,Discoid,Disc-09-14,C,Y,60.5,51.5,11.6,12.7,8.4,Triangular,14.8,7.9,,CX,L,2,2,2,Trapezoidal Asymmetric,Feather,Flake,33.78,80,101
+Discoid-09,Discoid,Disc-09-15,C,Y,62.4,38.3,10,10.1,7.3,Ellipse,5.6,3,,RT,L,1,1,0,Triangular,Feather,Flake,22.94,81,110
+Discoid-09,Discoid,Disc-09-16,C,Y,61.4,33.6,9.3,13,8.7,Ellipse,9.7,4.4,,CX,C,3,2,2,Triangular,Feather,Flake,24.59,85,105
+Discoid-09,Discoid,Disc-09-17,FP,N,44.4,37.5,9.4,8.7,7.7,Rhombus,19.7,7.8,,CC,L,4,3,2,Triangular,Step,Flake,12.9,74,109
+Discoid-09,Discoid,Disc-09-18,C,Y,47.3,36.4,12,11.7,6.1,Triangular,22.9,6.5,,CX,L,2,2,1,Triangular,Feather,Flake,18.51,69,115
+Discoid-09,Discoid,Disc-09-19,C,Y,56.1,43.2,12.3,14.3,9.6,Ellipse,5.9,4,,RT,L,1,1,0,Triangular,Feather,Flake,25.47,63,127
+Discoid-09,Discoid,Disc-09-20,C,Y,33.6,21,11.9,8.3,6,Rhombus,18.9,8.1,,CC,C,3,2,1,Triangular,Feather,Flake,6.54,60,129
+Discoid-09,Discoid,Disc-09-21,C,Y,46.5,57.7,16.6,18.1,11.1,Trapezoid,17.2,28,5.4,CC,C,1,1,0,Circular,Feather,Flake,42.93,75,115
