@@ -3,6 +3,8 @@
 This repository contains data and code used in the introductory course
 for lithic analysis and 2D geometric morphometrics using R.
 
+    Bustos-Pérez, G. 2025. Introductory course for lithic analysis and 2D Geometric Morphometrics usin R. https://github.com/GuillermoBustosPerez/Intro-Lithics-2DGM-in-R.git
+
 ### **Data origin**
 
 Currently, the repository contains two data sets:
