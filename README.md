@@ -13,9 +13,10 @@ Currently, the repository contains two data sets:
 
 - An extended version of the data set published in the article
   Bustos-Pérez et al. ([2023](#ref-bustos-perezWhatLiesLevallois2023)).
-  These contains a .csv file of attribute analysis for experimentally
-  generated flakes detached from three different knapping methods
-  (Levallois, Discoid and Hierarchical Discoid).
+  This dataset is provided in a .csv file containing the attribute
+  analysis of 234 experimentally generated flakes detached from three
+  different knapping methods (Levallois, Discoid and Hierarchical
+  Discoid).
 
 - 46 silouhettes of handaxes drawing published at Bordes
   ([1961](#ref-bordesTypologiePaleolithiqueAncien1961)) and at Debénath
