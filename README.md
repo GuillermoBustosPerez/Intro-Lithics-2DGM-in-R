@@ -16,7 +16,10 @@ Currently, the repository contains two data sets:
 
 - 46 silouhettes of handaxes drawing published at Bordes
   ([1961](#ref-bordesTypologiePaleolithiqueAncien1961)) and at Debénath
-  and Dibble ([1994](#ref-debenathHandbookPaleolithicTypology1994))
+  and Dibble ([1994](#ref-debenathHandbookPaleolithicTypology1994)).
+  These drawings of handaxes have been transformed into black and white
+  silhouettes (.jpg files) using GIMP image editor
+  (<https://www.gimp.org/>).
 
 ## **License**
 
