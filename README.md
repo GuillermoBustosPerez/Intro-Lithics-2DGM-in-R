@@ -14,7 +14,7 @@ Currently, the repository contains two data sets:
 - An extended version of the data set published in the article
   Bustos-Pérez et al. ([2023](#ref-bustos-perezWhatLiesLevallois2023))
 
-- 46silouhettes of handaxes drawing published at Bordes
+- 46 silouhettes of handaxes drawing published at Bordes
   ([1961](#ref-bordesTypologiePaleolithiqueAncien1961)) and at Debénath
   and Dibble ([1994](#ref-debenathHandbookPaleolithicTypology1994))
 
